@@ -2,6 +2,8 @@ team : C
 
 manager: manager_c
 
+coach: caps_c
+
 members:
 - m1
 - m2
