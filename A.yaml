@@ -1,9 +1,11 @@
 team: A
 
-manager: manager_a2
+manager: MANAGER_A
+
+coach: caps_a
 
 members:
 - member1
 - member2
 - member3
-- member4 
+- m4 
